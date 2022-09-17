@@ -10,7 +10,19 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  yaru:
+  fluent_ui: 
 
+  flutter_acrylic:
+  system_theme:
+  url_launcher:
+  url_strategy:
+  window_manager: 
+  macos_ui:
+  woue_components:
+    path: ../woue_components
+
+  flutter_bloc: ^8.1.1
 dev_dependencies:
   flutter_test:
     sdk: flutter
